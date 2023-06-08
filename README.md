@@ -6,7 +6,7 @@ The project goal is to parse data of Jeddah brokers
 
 # Get The Count Of Rows
 The First step to start working with the project is to run "Get Count.py" File to get the count of brokers (We will need it later)
-![1](https://github.com/amrachraf6690/Saudi-General-Real-Estate-AuthorityReal-estate-brokers-data/assets/78552764/6f18d389-e8cd-4268-86df-103047820e34)
+![1](https://github.com/amrachraf6690/Saudi-General-Real-Estate-AuthorityReal-estate-brokers-data/assets/78552764/3f731efc-787b-4ed0-a8b4-b1c1fa5fd20a)
 
 # Run the main script
 Then we ran "Script.py" to start parsing the data.
